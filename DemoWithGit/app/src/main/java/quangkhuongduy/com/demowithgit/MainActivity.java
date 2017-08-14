@@ -10,12 +10,14 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
-        for (int i = 0; i < 10; i++) {
+        int i = 0;
+        while (i < 10) {
             if (i % 2 == 0) {
                 Toast.makeText(this, i + "", Toast.LENGTH_SHORT).show();
             }
+            i++;
         }
+
 
     }
 }
