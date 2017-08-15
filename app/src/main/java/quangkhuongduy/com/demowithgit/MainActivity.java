@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
             Toast.makeText(this, i % 2 == 0 ? i + " La so chan" : i + " La so le", Toast.LENGTH_SHORT).show();
         }
         Toast.makeText(this, "Hoan Tat 09 ", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "123", Toast.LENGTH_SHORT).show();
     }
 }
