@@ -8,8 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5eb0f3e3-8334-4a31-8e02-18a514b36d78" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-<<<<<<< Updated upstream
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/quangkhuongduy/com/demowithgit/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/quangkhuongduy/com/demowithgit/MainActivity.java" />
 =======
 >>>>>>> Stashed changes
@@ -57,8 +55,8 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/quangkhuongduy/com/demowithgit/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+            <state relative-caret-position="352">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -1565,7 +1563,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4508081635000" />
+        <entry key="$PROJECT_DIR$" value="4508296545000" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1950,10 +1948,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-<<<<<<< Updated upstream
-      <pane id="Scope" />
-=======
->>>>>>> Stashed changes
+      <pane id="ProjectPane" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2006,12 +2001,8 @@
           </PATH>
         </subPane>
       </pane>
-<<<<<<< Updated upstream
-      <pane id="ProjectPane" />
-      <pane id="Scratches" />
-=======
       <pane id="Scope" />
->>>>>>> Stashed changes
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane" />
       <pane id="Scratches" />
@@ -2307,6 +2298,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/quangkhuongduy/com/demowithgit/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/quangkhuongduy/com/demowithgit/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
@@ -2326,8 +2333,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/quangkhuongduy/com/demowithgit/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        <state relative-caret-position="352">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding />
         </state>
       </provider>
